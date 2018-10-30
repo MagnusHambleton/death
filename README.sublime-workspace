@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"death",
+				"deathalt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/magnushambleton/Google Drive/Coding/Death/death_quiz/death_quiz/components/AnswerOption.js",
+		"/Users/magnushambleton/Google Drive/Coding/Death/death_quiz/death_quiz/components/QuestionCount.js",
+		"/Users/magnushambleton/Google Drive/Coding/Death/death_quiz/death_quiz/components/Quiz.js",
+		"/Users/magnushambleton/Documents/Processing/processing-art/coral/coral.html",
+		"/Users/magnushambleton/Documents/Processing/art/_config.yml",
+		"/usr/local/lib/python3.6/site-packages/jupyter.py",
+		"/usr/local/bin/ipython",
+		"/Users/magnushambleton/.ipython/profile_default/ipython_config.py",
+		"/Users/magnushambleton/Downloads/sample_plots.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/createpickle.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/Citiesmorethan100000.csv",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/europe.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/apirequest.py",
+		"/Users/magnushambleton/Documents/Python/MNIST/ML1.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/allcities.xlsx",
+		"/Users/magnushambleton/Documents/life-expectancy/chart.js",
+		"/Users/magnushambleton/Documents/life-expectancy/index.html",
+		"/Users/magnushambleton/Documents/life-expectancy/style.css",
+		"/Users/magnushambleton/Documents/life-expectancy/scroller.js",
+		"/Users/magnushambleton/Documents/life-expectancy/backup.html",
+		"/Users/magnushambleton/Documents/life-expectancy/Text",
+		"/Users/magnushambleton/Documents/life-expectancy/data.tsv",
+		"/Users/magnushambleton/Downloads/data1 (1).tsv",
+		"/Users/magnushambleton/Documents/life-expectancy/data1.tsv",
+		"/Users/magnushambleton/Downloads/data1.tsv",
+		"/Users/magnushambleton/Google Drive/Coding/ML/ML1.py",
+		"/Users/magnushambleton/Google Drive/Analog Mantra/Code/index.html",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/test.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/playfile.py",
+		"/Users/magnushambleton/Google Drive/Coding/TimeMaps/something.py",
+		"/Users/magnushambleton/Documents/Python/MNIST/ML2.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
