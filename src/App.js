@@ -19,7 +19,6 @@ class App extends Component {
       country:'',
       year: 0,
       month: 0,
-      date: 0,
       gender: '',
       smoker: '',
       question: '',
@@ -59,9 +58,9 @@ class App extends Component {
   }
 
   handleAnswerSelected(event) {
-    if(quizQuestions[this.state.questionId-1].questionType == "radiobutton") {
+    if(quizQuestions[this.state.questionId-1].questionType === "radiobutton") {
       this.setUserAnswer(event.currentTarget.value, quizQuestions[this.state.questionId-1].answerInfo);
-    } else if(quizQuestions[this.state.questionId-1].questionType == "date") {
+    } else if(quizQuestions[this.state.questionId-1].questionType === "date") {
       this.setUserAnswer(event.clone(), quizQuestions[this.state.questionId-1].answerInfo);
 
     } else {
@@ -84,16 +83,16 @@ class App extends Component {
       },
       answer: answer
     }));
-    if (answerInfo == "Country") {
+    if (answerInfo === "Country") {
       this.setState((state,props) => ({country: answer}));
     }
-    if (answerInfo == "Birthday") {
+    if (answerInfo === "Birthday") {
       this.setState((state,props) => ({birthday: moment(answer.format())}));
     }
-    if (answerInfo == "Gender") {
+    if (answerInfo === "Gender") {
       this.setState((state,props) => ({gender: answer}));
     }
-    if (answerInfo == "Smoker") {
+    if (answerInfo === "Smoker") {
       this.setState((state,props) => ({smoker: answer}));
     }
   }

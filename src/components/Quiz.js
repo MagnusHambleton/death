@@ -28,7 +28,7 @@ function Quiz(props) {
       />
     );
   }
-  if (questionType == "radiobutton") {
+  if (questionType === "radiobutton") {
     return (
       <CSSTransitionGroup
         className="container"
@@ -49,7 +49,7 @@ function Quiz(props) {
       </CSSTransitionGroup>
     );
   }
-  if (questionType == "dropdown") {
+  if (questionType === "dropdown") {
     return (
       <CSSTransitionGroup
         className="container"
@@ -87,7 +87,7 @@ function Quiz(props) {
     );
   }
 
-  if (questionType == "date") {
+  if (questionType === "date") {
     return (
       <CSSTransitionGroup
         className="container"
@@ -121,7 +121,7 @@ function Quiz(props) {
 }
 
 Quiz.propTypes = {
-  answer: PropTypes.object.isRequired,
+  answer: PropTypes.string.isRequired,
   answerOptions: PropTypes.array.isRequired,
   question: PropTypes.string.isRequired,
   questionId: PropTypes.number.isRequired,
