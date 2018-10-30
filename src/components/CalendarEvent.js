@@ -28,7 +28,7 @@ function CalendarEvent(props) {
 	      <AddToCalendar 
 		      event={anniversaryArray} 
 			    buttonTemplate={icon} 
-			    buttonLabel={"Add "+anniversaryYears+" year death anniversary to my calendar"}/>
+			    buttonLabel={"Add "+anniversaryYears+" year anniversary to calendar"}/>
 	    </div>
 	   );
   } else {
